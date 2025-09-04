@@ -1,0 +1,18 @@
+.head {
+  position: relative;
+}
+.head .links {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.main-component {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+/*# sourceMappingURL=index.css.map */
